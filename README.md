@@ -3,7 +3,7 @@ train with OpenAI Gym LunarLander-v2
 
 four actions: fire left orientation engine, fire main engine, fire right orientation engine, do nothing
 
-### run files
+### run
 ```
 python dqn.py
 python ddqn.py
