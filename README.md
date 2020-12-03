@@ -6,9 +6,7 @@ python ddqn.py
 ```
 ## result
 ![image](https://github.com/JiaxinTong1996/Reinforcement_Learning_game/blob/main/img/dqn_result.png)
-![image](https://github.com/JiaxinTong1996/Reinforcement_Learning_game/blob/main/img/dqn_score.png)
 ![image](https://github.com/JiaxinTong1996/Reinforcement_Learning_game/blob/main/img/ddqn_result.png)
-![image](https://github.com/JiaxinTong1996/Reinforcement_Learning_game/blob/main/img/ddqn_score.png)
 
 
 
