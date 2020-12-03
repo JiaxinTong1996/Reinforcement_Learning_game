@@ -1,7 +1,7 @@
 # Reinforcement_Learning_game
-### train with OpenAI Gym LunarLander-v2
+train with OpenAI Gym LunarLander-v2
 
-### four actions: fire left orientation engine, fire main engine, fire right orientation engine, do nothing
+four actions: fire left orientation engine, fire main engine, fire right orientation engine, do nothing
 
 ### run files
 ```
