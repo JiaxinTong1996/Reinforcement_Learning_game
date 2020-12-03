@@ -1,4 +1,5 @@
 # Reinforcement_Learning_game
+train with OpenAI Gym LunarLander-v2
 ## run files
 ```
 python dqn.py
